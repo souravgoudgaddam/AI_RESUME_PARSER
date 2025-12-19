@@ -19,3 +19,23 @@
    #### ↓
 #### Semantic Job Matching + Explanation (LLM)
 
+🛠️ Tech Stack
+
+Backend: FastAPI
+
+LLM: Mistral (ChatMistralAI)
+
+Framework: LangChain
+
+Vector DB: ChromaDB
+
+Embeddings: Mistral Embeddings
+
+Validation: Pydantic
+
+PDF Parsing: PyMuPDF
+
+UI: Swagger UI + Streamlit
+
+Language: Python 3.11+
+
