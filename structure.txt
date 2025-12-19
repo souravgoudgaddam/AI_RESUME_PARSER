@@ -1,0 +1,26 @@
+resume-parser-genai/
+│
+├── app/
+│   ├── main.py               # FastAPI entry
+│   ├── api/
+│   │   ├── upload.py
+│   │   ├── parse.py
+│   │   └── match.py
+│   ├── services/
+│   │   ├── pdf_loader.py
+│   │   ├── resume_parser.py
+│   │   ├── embedding_service.py
+│   │   └── matcher.py
+│   ├── models/
+│   │   └── resume_schema.py
+│
+├── vector_store/
+├── prompts/
+│   └── resume_parser_prompt.txt
+│
+├── ui/
+│   └── streamlit_app.py
+│
+├── requirements.txt
+├── Dockerfile
+└── README.md

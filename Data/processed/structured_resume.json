@@ -1,0 +1,22 @@
+{
+  "name": "Hayden Smith",
+  "email": "haydensmith@email.com",
+  "phone": "04501 123 456",
+  "skills": [
+    "Customer service",
+    "Cash handling",
+    "Communication",
+    "Teamwork",
+    "Organization",
+    "Problem solving"
+  ],
+  "experience": [
+    "Customer service (volunteer) at Park Hill Soccer Club Canteen (December 2016 \u2013 March 2017)",
+    "Newspaper deliverer at Argo Newsagency (June 2016 \u2013 February 2017)",
+    "Soccer umpire for under 14 team at Park Hill Soccer Club (2016 \u2013 current)",
+    "Assistant Coach for junior players at Park Hill Soccer Club (2017 \u2013 current)"
+  ],
+  "education": [
+    "Year 11 at Park Hill Secondary College (Subjects: Maths, English, Business Management, VET studies in Sport and Recreation)"
+  ]
+}
